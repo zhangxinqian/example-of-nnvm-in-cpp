@@ -25,6 +25,7 @@
 #include "../../nnvm/tvm/src/runtime/module.cc"
 #include "../../nnvm/tvm/src/runtime/registry.cc"
 #include "../../nnvm/tvm/src/runtime/file_util.cc"
+#include "../../nnvm/tvm/src/runtime/threading_backend.cc"
 #include "../../nnvm/tvm/src/runtime/thread_pool.cc"
 
 // NOTE: all the files after this are optional modules
